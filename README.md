@@ -1,8 +1,3 @@
-这是为您整理的包含免责声明的完整 README.md 内容，以及其他两个必要文件的 Markdown 源码。您可以直接复制使用。
-
-1. README.md (项目主页说明)
-Markdown
-
 # 淘宝秒杀助手 Pro (Taobao Sniper Pro)
 
 这是一个基于 **Python** 和 **Selenium** 开发的桌面端淘宝抢购工具。它具备图形用户界面（GUI），支持自动登录、定时监控、自动勾选及高频提交订单功能。
