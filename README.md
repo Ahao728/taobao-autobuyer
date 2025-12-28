@@ -22,19 +22,14 @@ Python 3.x
 Microsoft Edge 浏览器（已安装）
 
 Python 库依赖：
+selenium
 
-Bash
-
-pip install selenium
 WebDriver：需要下载与您 Edge 浏览器版本一致的 msedgedriver.exe。
-
-官方下载地址
+官方下载地址：https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH#installation
 
 🚀 使用说明
 1. 准备工作
-将 taobao1.py 和 msedgedriver.exe 放在同一个文件夹内。
-
-或者运行程序后，通过界面上的“浏览”按钮手动指定驱动路径。
+将 taobao1.py 和 msedgedriver.exe 放在同一个文件夹内，或者运行程序后，通过界面上的“浏览”按钮手动指定驱动路径。
 
 2. 启动步骤
 运行程序：执行 python taobao1.py。
